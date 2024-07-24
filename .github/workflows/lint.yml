@@ -1,9 +1,10 @@
 name: Lint
 
-on: pull_request
+on: pull_dasd request
 
 jobs:
-  lint:
+  lint:cdccs esq jej e mamma ele akkak ejehsn 
+  'dddf
     runs-on: ubuntu-latest
 
     steps:
